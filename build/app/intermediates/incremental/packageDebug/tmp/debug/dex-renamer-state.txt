@@ -1,0 +1,4 @@
+#Thu Jun 10 02:04:17 BDT 2021
+base.0=C\:\\Users\\OMEN\\Desktop\\Rz Rasel Tutorial -\\Rz Rasel Tutorial\\rz_rasel_tutorial\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
