@@ -134,13 +134,19 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "rz_rasel_tutorial_webview",
+      "name": "webview_flutter",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-2.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rz_rasel_tutorial",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-06-13T05:31:01.638380Z",
+  "generated": "2021-06-13T05:52:06.060372Z",
   "generator": "pub",
   "generatorVersion": "2.12.2"
 }
