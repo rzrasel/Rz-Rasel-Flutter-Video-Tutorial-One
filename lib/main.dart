@@ -15,14 +15,17 @@ class WebViewTutorialState extends State<WebViewTutorial> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Container(
-          child: WebView(
-            initialUrl: "https://github.com/rzrasel",
-            javascriptMode: JavascriptMode.unrestricted,
-            onWebViewCreated: (WebViewController argWebViewController) {
-              webViewController = argWebViewController;
-            },
+          child: SafeArea(
+            child: WebView(
+              initialUrl: "https://github.com/rzrasel",
+              javascriptMode: JavascriptMode.unrestricted,
+              onWebViewCreated: (WebViewController argWebViewController) {
+                webViewController = argWebViewController;
+              },
+            ),
           ),
         ),
       ),
