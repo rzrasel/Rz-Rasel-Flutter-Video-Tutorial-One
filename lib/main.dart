@@ -28,6 +28,7 @@ class PortfolioPageState extends State<PortfolioPage> {
               image: DecorationImage(
                 image: NetworkImage(
                     "https://blog.codemagic.io/uploads/covers/CM_Android-dev-Flutter.png"),
+                  // "https://avatars.githubusercontent.com/u/6184050?v=4"),
                 fit: BoxFit.cover,
               ),
             ),
@@ -46,7 +47,7 @@ class PortfolioPageState extends State<PortfolioPage> {
                         icon: Icon(
                           Icons.arrow_back,
                           color: Colors.white,
-                          size: 30,
+                          size: 20,
                         ),
                       ),
                       IconButton(
@@ -54,7 +55,7 @@ class PortfolioPageState extends State<PortfolioPage> {
                         icon: Icon(
                           Icons.more_vert,
                           color: Colors.white,
-                          size: 30,
+                          size: 20,
                         ),
                       ),
                     ],
@@ -84,17 +85,39 @@ class PortfolioPageState extends State<PortfolioPage> {
     );
   }
 
-  Widget tiles(String title) {
-    return ListTile(
-      title: Text(
-        title,
-        style: TextStyle(
-          fontSize: 12,
-          fontWeight: FontWeight.w500,
-          color: Colors.white,
-        ),
+  Widget info(Size size) {
+    return Container(
+      height: size.height / 10,
+      width: size.width,
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        children: [
+          Text(
+            "Followers\n\t\t\t5.5M",
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 14,
+              fontWeight: FontWeight.w500,
+            ),
+          ),
+          Text(
+            "Following\n\t\t\t5",
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 14,
+              fontWeight: FontWeight.w500,
+            ),
+          ),
+          Text(
+            "Posts\n\t\t\t582",
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 14,
+              fontWeight: FontWeight.w500,
+            ),
+          ),
+        ],
       ),
-      trailing: Icon(Icons.edit, color: Colors.white,),
     );
   }
 
@@ -142,38 +165,34 @@ class PortfolioPageState extends State<PortfolioPage> {
     );
   }
 
-  Widget info(Size size) {
-    return Container(
-      height: size.height / 10,
-      width: size.width,
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        children: [
-          Text(
-            "Followers\n\t\t\t5.5M",
-            style: TextStyle(
-              color: Colors.white,
-              fontSize: 12,
-              fontWeight: FontWeight.w500,
-            ),
+  Widget tiles(String title) {
+    /*return ListTile(
+      title: Text(
+        title,
+        style: TextStyle(
+          fontSize: 12,
+          fontWeight: FontWeight.w500,
+          color: Colors.white,
+        ),
+      ),
+      trailing: Icon(Icons.edit, color: Colors.white,),
+    );*/
+    return SizedBox(
+      height: 24,
+      child: ListTile(
+        title: Text(
+          title,
+          style: TextStyle(
+            fontSize: 14,
+            fontWeight: FontWeight.w500,
+            color: Colors.white,
           ),
-          Text(
-            "Following\n\t\t\t5",
-            style: TextStyle(
-              color: Colors.white,
-              fontSize: 12,
-              fontWeight: FontWeight.w500,
-            ),
-          ),
-          Text(
-            "Posts\n\t\t\t582",
-            style: TextStyle(
-              color: Colors.white,
-              fontSize: 12,
-              fontWeight: FontWeight.w500,
-            ),
-          ),
-        ],
+        ),
+        trailing: Icon(
+          Icons.edit,
+          color: Colors.white,
+          size: 18,
+        ),
       ),
     );
   }
