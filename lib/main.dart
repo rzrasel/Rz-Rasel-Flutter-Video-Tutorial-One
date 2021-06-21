@@ -123,9 +123,15 @@ class PortfolioPageState extends State<PortfolioPage> {
       height: size.height / 10,
       width: size.width / 1.3,
       child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           ElevatedButton(
             child: Text("Post"),
+            style: ElevatedButton.styleFrom(
+              primary: Color.fromRGBO(29, 29, 29, 1),
+              padding: EdgeInsets.symmetric(vertical: 4, horizontal: 42),
+              side: BorSi
+            ),
             onPressed: () {},
           ),
           ElevatedButton(
