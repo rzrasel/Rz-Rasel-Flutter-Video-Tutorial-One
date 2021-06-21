@@ -119,6 +119,21 @@ class PortfolioPageState extends State<PortfolioPage> {
   }
 
   Widget buttons(Size size) {
-    return Container();
+    return Container(
+      height: size.height / 10,
+      width: size.width / 1.3,
+      child: Row(
+        children: [
+          ElevatedButton(
+            child: Text("Post"),
+            onPressed: () {},
+          ),
+          ElevatedButton(
+            child: Text("Post"),
+            onPressed: () {},
+          ),
+        ],
+      ),
+    );
   }
 }
