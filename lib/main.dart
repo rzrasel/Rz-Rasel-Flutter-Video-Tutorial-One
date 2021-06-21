@@ -76,14 +76,49 @@ class PortfolioPageState extends State<PortfolioPage> {
             ),
           ),
           info(size),
+          buttons(size),
         ],
       ),
     );
   }
+
   Widget info(Size size) {
     return Container(
       height: size.height / 10,
       width: size.width,
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        children: [
+          Text(
+            "Like\n\t\t\t10.5M",
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 14,
+              fontWeight: FontWeight.w500,
+            ),
+          ),
+          Text(
+            "Like\n\t\t\t10.5M",
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 14,
+              fontWeight: FontWeight.w500,
+            ),
+          ),
+          Text(
+            "Like\n\t\t\t10.5M",
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 14,
+              fontWeight: FontWeight.w500,
+            ),
+          ),
+        ],
+      ),
     );
+  }
+
+  Widget buttons(Size size) {
+    return Container();
   }
 }
