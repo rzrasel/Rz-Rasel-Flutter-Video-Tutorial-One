@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-rz/rasel/rzraseltutorial/profile_screen_ui_speed_code/BuildConfig.java
- rz.rasel.rzraseltutorial.profile_screen_ui_speed_code.BuildConfig
