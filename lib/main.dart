@@ -134,7 +134,9 @@ class PortfolioPageState extends State<PortfolioPage> {
                 width: 2,
                 color: Color.fromRGBO(255, 0, 102, 1),
               ),
-              shape: RoundedRectangleBorder(),
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(20),
+              ),
             ),
             onPressed: () {},
           ),
