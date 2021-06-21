@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "rz.rasel.rzraseltutorial.profile_screen_ui_speed_code",
+  "variantName": "debug",
+  "elements": []
+}
