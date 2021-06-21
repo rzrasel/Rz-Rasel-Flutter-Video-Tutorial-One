@@ -130,7 +130,11 @@ class PortfolioPageState extends State<PortfolioPage> {
             style: ElevatedButton.styleFrom(
               primary: Color.fromRGBO(29, 29, 29, 1),
               padding: EdgeInsets.symmetric(vertical: 4, horizontal: 42),
-              side: BorSi
+              side: BorderSide(
+                width: 2,
+                color: Color.fromRGBO(255, 0, 102, 1),
+              ),
+              shape: RoundedRectangleBorder(),
             ),
             onPressed: () {},
           ),
