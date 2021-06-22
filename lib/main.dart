@@ -77,6 +77,9 @@ class PortfolioPageState extends State<PortfolioPage> {
           ),
           info(size),
           buttons(size),
+          tiles("Location: Add Location"),
+          tiles("Gender: Add Gender"),
+          tiles("Profession: Add Profession"),
         ],
       ),
     );
@@ -142,11 +145,22 @@ class PortfolioPageState extends State<PortfolioPage> {
           ),
           ElevatedButton(
             child: Text("Message"),
+            style: ElevatedButton.styleFrom(
+              primary: Color.fromRGBO(255, 0, 102, 1),
+              padding: EdgeInsets.symmetric(vertical: 4, horizontal: 36),
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(20),
+              ),
+            ),
             onPressed: () {},
           ),
         ],
       ),
     );
+  }
+
+  Widget tiles(String title) {
+    return Container();
   }
 }
 //97
