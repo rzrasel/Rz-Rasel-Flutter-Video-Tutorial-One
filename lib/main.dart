@@ -98,7 +98,7 @@ class PortfolioPageState extends State<PortfolioPage> {
             ),
           ),
           Text(
-            "Like\n\t\t\t10.5M",
+            "Comment\n\t\t\t1.9M",
             style: TextStyle(
               color: Colors.white,
               fontSize: 14,
@@ -106,7 +106,7 @@ class PortfolioPageState extends State<PortfolioPage> {
             ),
           ),
           Text(
-            "Like\n\t\t\t10.5M",
+            "Share\n\t\t\t15.2M",
             style: TextStyle(
               color: Colors.white,
               fontSize: 14,
@@ -141,7 +141,10 @@ class PortfolioPageState extends State<PortfolioPage> {
             onPressed: () {},
           ),
           ElevatedButton(
-            child: Text("Post"),
+            child: Text("Message"),
+            style: ElevatedButton.styleFrom(
+              primary: Color.fromRGBO(255, 0, 102, 1),
+            ),
             onPressed: () {},
           ),
         ],
@@ -149,3 +152,4 @@ class PortfolioPageState extends State<PortfolioPage> {
     );
   }
 }
+//97
