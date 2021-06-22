@@ -160,8 +160,23 @@ class PortfolioPageState extends State<PortfolioPage> {
   }
 
   Widget tiles(String title) {
-    return ListTile(
-      title: ,
+    return SizedBox(
+      height: 24,
+      child: ListTile(
+        title: Text(
+          title,
+          style: TextStyle(
+            fontSize: 14,
+            fontWeight: FontWeight.w500,
+            color: Colors.white,
+          ),
+        ),
+        trailing: Icon(
+          Icons.edit,
+          color: Colors.white,
+          size: 18,
+        ),
+      ),
     );
   }
 }
