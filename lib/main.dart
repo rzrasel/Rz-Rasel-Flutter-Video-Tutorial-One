@@ -142,9 +142,6 @@ class PortfolioPageState extends State<PortfolioPage> {
           ),
           ElevatedButton(
             child: Text("Message"),
-            style: ElevatedButton.styleFrom(
-              primary: Color.fromRGBO(255, 0, 102, 1),
-            ),
             onPressed: () {},
           ),
         ],
