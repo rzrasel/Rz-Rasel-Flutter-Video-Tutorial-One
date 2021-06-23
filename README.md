@@ -1,4 +1,4 @@
 # Rz Rasel - Flutter Tutorial
-This tutorial we show how to make Search Bar Search Using Search Delegate
+This tutorial we show how to make Plant Shop UI Design
 
 [Link](https://youtu.be/jLyL4ywiVns)
