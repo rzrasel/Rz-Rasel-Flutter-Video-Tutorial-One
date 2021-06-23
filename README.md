@@ -9,6 +9,6 @@ Tutorial List:
 
 
 On Going
-* [Search Bar One](https://github.com/rzrasel/Rz-Rasel-Flutter-Tutorial-One/tree/Flutter-Tutorial-Search-Bar-One) - In Queue
-* [Plant Shop UI Design One](https://github.com/rzrasel/Rz-Rasel-Flutter-Tutorial-One/tree/Flutter-Tutorial-Plant-Shop-UI-One)
-* [Responsive Top Navigation Bar Web And Mobile - One](https://github.com/rzrasel/Rz-Rasel-Flutter-Tutorial-One/tree/Flutter-Tutorial-Responsive-Top-Navigation-Bar-Web-And-Mobile-One)
+* [Search Bar One](https://github.com/rzrasel/Rz-Rasel-Flutter-Tutorial-One/tree/Flutter-Tutorial-Search-Bar-One) - In Queue (3)
+* [Plant Shop UI Design One](https://github.com/rzrasel/Rz-Rasel-Flutter-Tutorial-One/tree/Flutter-Tutorial-Plant-Shop-UI-One) (1)
+* [Responsive Top Navigation Bar Web And Mobile - One](https://github.com/rzrasel/Rz-Rasel-Flutter-Tutorial-One/tree/Flutter-Tutorial-Responsive-Top-Navigation-Bar-Web-And-Mobile-One) (2)
