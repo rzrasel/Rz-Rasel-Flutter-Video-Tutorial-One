@@ -10,3 +10,4 @@ Tutorial List:
 
 On Going
 * [Flutter Search Bar One Speed Code - In Queue](https://github.com/rzrasel/Rz-Rasel-Flutter-Tutorial-One/tree/Flutter-Search-Bar-One-Speed-Code-In-Queue)
+* [Plant Shop UI Design One](https://github.com/rzrasel/Rz-Rasel-Flutter-Tutorial-One/tree/Flutter-Tutorial-Plant-Shop-UI-One)
