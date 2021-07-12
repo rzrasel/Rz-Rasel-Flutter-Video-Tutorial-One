@@ -34,3 +34,13 @@ git push --force origin master
 
 Your repository should now be below the size limit.
 ```
+
+### Reducing the repository size using Git
+```
+Navigate to your repository:
+cd my_repository/
+git checkout Flutter-Tutorial-Splash-Screen-One
+git filter-branch --force --tree-filter 'rm -f path/to/big_file.mpg' HEAD
+git reflog expire --expire=now --all && git gc --prune=now --aggressive
+git push --force origin Flutter-Tutorial-Splash-Screen-One
+```
