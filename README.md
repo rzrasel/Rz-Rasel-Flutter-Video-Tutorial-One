@@ -10,7 +10,7 @@ git remote add origin https://github.com/rzrasel/Rz-Rasel-Flutter-Video-Tutorial
 git remote -v
 git fetch && git checkout Flutter-Tutorial-Splash-Screen-One
 git add .
-git commit -m "Flutter tutorial - Splash screen"
+git commit -m "Add Readme & Git Commit File"
 git pull
 git push --all
 ```
