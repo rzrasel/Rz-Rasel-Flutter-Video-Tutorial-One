@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-rz/rasel/rz_rasel_tutorial/BuildConfig.java
- rz.rasel.rz_rasel_tutorial.BuildConfig
