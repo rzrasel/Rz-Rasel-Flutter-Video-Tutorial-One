@@ -1,4 +1,6 @@
 # Rz Rasel - Flutter Tutorial
-This tutorial we show how to make Search Bar Search Using Search Delegate
+This tutorial we show how to make search bar search using search delegate
 
-[Link](https://youtu.be/Nc1OaAJANtw)
+Flutter tutorial - Search Bar
+
+[Link - JANtw%Nc1OaA](https://youtu.be/)
