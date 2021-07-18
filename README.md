@@ -5,6 +5,8 @@ Flutter tutorial - Splash screen
 
 [![Create Splash Screen in Flutter App Speed Coding | Using Navigator MaterialPageRoute by Rz Rasel](https://img.youtube.com/vi/q_-vRoKndSU/0.jpg)](https://www.youtube.com/watch?v=q_-vRoKndSU)
 
+[![Create Splash Screen in Flutter App Speed Coding | Using Navigator MaterialPageRoute by Rz Rasel](https://yt-embed.herokuapp.com/embed?v=q_-vRoKndSU)](https://www.youtube.com/watch?v=q_-vRoKndSU "Create Splash Screen in Flutter App Speed Coding | Using Navigator MaterialPageRoute by Rz Rasel")
+
 
 ### GIT Command
 ```git_command
