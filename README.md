@@ -3,6 +3,10 @@ This tutorial we show how to make a splash screen in flutter
 
 Flutter tutorial - Splash screen
 
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q_-vRoKndSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ### GIT Command
 ```git_command
 git init
