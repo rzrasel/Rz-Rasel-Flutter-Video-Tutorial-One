@@ -3,10 +3,6 @@ This tutorial we show how to make a splash screen in flutter
 
 Flutter tutorial - Splash screen
 
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q_-vRoKndSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-[Create Splash Screen in Flutter App Speed Coding | Using Navigator MaterialPageRoute by Rz Rasel](https://youtu.be/q_-vRoKndSU)
 [![Create Splash Screen in Flutter App Speed Coding | Using Navigator MaterialPageRoute by Rz Rasel](https://img.youtube.com/vi/q_-vRoKndSU/0.jpg)](https://www.youtube.com/watch?v=q_-vRoKndSU)
 
 ### GIT Command
