@@ -38,6 +38,15 @@ Your repository should now be below the size limit.
 -- git gc --prune=now
 ```
 
+Navigate to your repository:
+```
+cd my_repository/
+git checkout master
+git filter-branch --force --tree-filter 'rm -f path/to/big_file.mpg' HEAD
+git reflog expire --expire=now --all && git gc --prune=now --aggressive
+git push --force origin master
+```
+
 Tutorial List:
 * Video Tutorial: []() Source Code: [Navigate To Another Screen One](https://github.com/rzrasel/Rz-Rasel-Flutter-Tutorial-One/tree/Flutter-Tutorial-Navigate-To-Another-Screen-One)
 * Video Tutorial: []() Source Code: [Portfolio UI Design One](https://github.com/rzrasel/Rz-Rasel-Flutter-Tutorial-One/tree/Flutter-Tutorial-Portfolio-UI-Design-One) - On Queue
