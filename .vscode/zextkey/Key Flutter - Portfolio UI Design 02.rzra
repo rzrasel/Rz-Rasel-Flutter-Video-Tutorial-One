@@ -1,7 +1,11 @@
 
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 1
+|----| Use For: main, PortfolioPage class
+|----| Command: Starting point
+|----|------------------------------------------------------------|
 
-                                        (=>|=============================|<=)
-                                        (=>Main Page|--------------------|<=)
 RZ_NLINE_ALL_RZ
 ::====::COMMAND_LINE_01::====::
 RZ_DELAY_EQUAL_150_RZ
@@ -29,35 +33,67 @@ RZ_NLINE_ALL_RZ
 
 stful:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:PortfolioPage:RZ_END_RZ
 
-|----|------------------------------------------------------------|
-                                        (=>|----GOTO COMMAND----|<=)
 RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// Set [test.dart - class], delete underscore, GoTo Line Number: 18, end of line:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 
-                                        (=>|----Size----|<=)
 RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 18
+|----| Use For: Size MediaQuery
+|----| Command: GoTo Line Number: 18 end of line. Set widgets in widget_test.dart - file
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+RZ_NLINE_ALL_RZ
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 Size size = MediaQuery.o:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ.si:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ;\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 RZ_DOWN_RZ:RZ_END_RZ
 
-                                        (=>|----GOTO COMMAND----|<=)
 RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 21, Delete Container():RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_30000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 
-                                        (=>|----Scaffold----|<=)
 RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 21
+|----| Use For: Delete Container(), URL
+|----| Command: GoTo Line Number: 21, Delete Container(), copy profile image url
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
 Scaffold(
 bod:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Column(
 chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
@@ -69,54 +105,226 @@ ima:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:DecIm:RZ_DELAY_DASH_1500_ENTER_DE
 ima:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:NetIm:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ(),RZ_LEFT_RZ:RZ_LEFT_RZ
 "url:RZ_END_RZ:RZ_DOWN_RZ:RZ_END_RZ
 fit:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:BoxFit.cov:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,RZ_END_RZ
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 34, end of line, copy image url from git:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_45000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 
-                                        (=>|----child: Column----|<=)
 RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 34
+|----| Use For: Delete Column(), SizedBox()
+|----| Command: GoTo Line Number: 34
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colu:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ(
 chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
 SizBo:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ),RZ_LEFT_RZ:RZ_LEFT_RZ
 hei:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:size.he:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ / 15:RZ_END_RZ
 
-                                        (=>|----GOTO COMMAND----|<=)
 RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 21, end of line:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_30000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 
-                                        (=>|----backgroundColor----|<=)
 RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 21
+|----| Use For: Background color
+|----| Command: GoTo Line Number: 21 end of line
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 bacCol:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Color.froRG:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:1:RZ_TAB_RZ:1:RZ_TAB_RZ:1:RZ_TAB_RZ:1:RZ_END_RZ
 
-                                        (=>|----GOTO COMMAND----|<=)
 RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// Run and GoTo Line Number: 5, end of line:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 
-                                        (=>|----debugShowCheckedModeBanner----|<=)
 RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 5
+|----| Use For: debugShowCheckedModeBanner false
+|----| Command: GoTo Line Number: 5, Delete Container()
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 deSCMBa:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:false:RZ_END_RZ
 
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 41
+|----| Use For: IconButton
+|----| Command: GoTo Line Number: 41 end of line, Icons.arrow_back
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+Cont:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
+wid:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:size.wid:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ / 1.1:RZ_END_RZ
+chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Row(
+chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
+IconButton(),RZ_LEFT_RZ:RZ_LEFT_RZ
+ico:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Icon(
+Icons.arr_b:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ,
+col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colors.wh:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ
+siz:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:32:RZ_END_RZ:RZ_DOWN_RZ:RZ_END_RZ
+onP:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:() {}:RZ_END_RZ
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: -
+|----| Use For: use
+|----| Command: GoTo Line Number: - end of line
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+|====|
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+
+
+
+
+
+
+
+
+
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: -
+|----| Use For: use
+|----| Command: GoTo Line Number: - end of line
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+|====|
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+
+
+
+
+
+
+
+
+
+|----|------------------------------------------------------------|
                                         (=>|----GOTO COMMAND----|<=)
 RZ_NLINE_ALL_RZ
 end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
@@ -140,6 +348,8 @@ Icons.arr_b:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ,
 col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colors.wh:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ
 siz:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:20:RZ_END_RZ:RZ_DOWN_RZ:RZ_END_RZ
 onP:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:() {}:RZ_END_RZ
+
+|----|------------------------------------------------------------|
 
                                         (=>|----GOTO COMMAND----|<=)
 RZ_NLINE_ALL_RZ
@@ -433,3 +643,33 @@ start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPA
 
 RZ_NLINE_ALL_RZ
 RZ_SAVE_RZ END
+
+|----|------------------------------------------------------------|
+|----| File Name: file_name
+|----| Line Number: line_number
+|----| Use For: use_for
+|----| Command: command
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+|====|
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
