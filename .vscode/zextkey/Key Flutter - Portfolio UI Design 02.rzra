@@ -331,7 +331,7 @@ hei:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:size.he:RZ_DELAY_DASH_400_ENTER_D
 Text(RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
 "Rz Rasel - Flutter Tutorial:RZ_END_RZ,
 sty:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:TexSt:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ(
-col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colors.wh:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,
+col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colors.bluGr:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,
 fonSi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:24,
 fonWe:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:FonWe:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ.bo:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,
 
@@ -347,9 +347,9 @@ RZ_NLINE_ALL_RZ
 |----|------------------------------------------------------------|
 |----|------------------------------------------------------------|
 |----| File Name: main.dart
-|----| Line Number: -
-|----| Use For: use
-|----| Command: GoTo Line Number: - end of line
+|----| Line Number: 79
+|----| Use For: call info(size)
+|----| Command: GoTo Line Number: 79 end of line
 |----|------------------------------------------------------------|
 
 RZ_NLINE_ALL_RZ
@@ -362,7 +362,8 @@ rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPA
 
 RZ_NLINE_ALL_RZ
 
-|====|
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+info(size:RZ_END_RZ,
 
 RZ_NLINE_ALL_RZ
 //e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
@@ -374,6 +375,382 @@ RZ_NLINE_ALL_RZ
 |----|------------------------------------------------------------|
 |----| End
 |----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 84
+|----| Use For: Widget info(Size argSize)
+|----| Command: GoTo Line Number: 84 end of line
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+Widget info(Size argSize:RZ_END_RZ {
+return Cont:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ:;RZ_LEFT_RZ:RZ_LEFT_RZ
+hei:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:argSize.he:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ / 10:RZ_END_RZ
+wid:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:argSize.wi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ
+chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Row(
+chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
+Text(RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
+"Like\n10.5M:RZ_END_RZ,
+sty:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:TexSt:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ(
+col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colors.wh:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,
+fonSi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:20,
+fonWe:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:FonWe:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ.w5:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 99
+|----| Use For: Copy past text 2 times, select full text - line 101
+|----| Command: GoTo Line Number: 99, then goto line: 101, select full text
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+Comment\n1.9M:RZ_END_RZ
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 109
+|----| Use For: Select full text - line 109
+|----| Command: GoTo Line Number: 109, select full text
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+Share\n15.2M:RZ_END_RZ:RZ_END_RZ
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 90
+|----| Use For: mainAxisAlignment - MainAxisAlignment.spaceEvenly
+|----| Command: GoTo Line Number: 90 end of line
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+maiAAl:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:MaiAAli:RZ_DELAY_DASH_3000_ENTER_DELAY_EQUAL_150_RZ.spEv:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 80
+|----| Use For: called buttons(size) function
+|----| Command: GoTo Line Number: 80 end of line
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+buttons(size:RZ_END_RZ,
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 121
+|----| Use For: Widget buttons(Size argSize)
+|----| Command: GoTo Line Number: 121 end of line
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+Widget buttons(Size argSize:RZ_END_RZ {
+return Cont:RZ_DELAY_DASH_3000_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ;RZ_LEFT_RZ:RZ_LEFT_RZ
+hei:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:argSize.he:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ / 10:RZ_END_RZ
+wid:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:argSize.wi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ / 1.3:RZ_END_RZ
+chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Row(
+chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
+ElevatedButton(RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
+chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Text("Post:RZ_END_RZ
+onPr:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ() {}RZ_END_RZ
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 127
+|----| Use For: Copy past ElevatedButton once, goto line number: 127
+|----| Command: GoTo Line Number: 127 end of line
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+maiAAl:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:MaiAAl:RZ_DELAY_DASH_3000_ENTER_DELAY_EQUAL_150_RZ.spBe:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RZ_DOWN_RZ:RZ_DOWN_RZ:RZ_DOWN_RZ:RZ_END_RZ
+sty:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:EleBu:RZ_DELAY_DASH_3000_ENTER_DELAY_EQUAL_150_RZ.stFr:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ
+pri:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Color.frRG:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:29:RZ_TAB_RZ:29:RZ_TAB_RZ:29:RZ_TAB_RZ:1:RZ_END_RZ,
+pad:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:EdgeInsets.sym:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:ver:RZ_DELAY_DASH_3000_ENTER_DELAY_EQUAL_150_RZ:4, hor:RZ_DELAY_DASH_3000_ENTER_DELAY_EQUAL_150_RZ:42:RZ_END_RZ,
+texSt:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:TexSt:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:fonSi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:20:RZ_END_RZ,
+sid:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:BorSi:RZ_DELAY_DASH_3000_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
+wid:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:2,
+col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Color.frRG:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:255:RZ_TAB_RZ:0:RZ_TAB_RZ:102:RZ_TAB_RZ:1:RZ_END_RZ,RZ_DOWN_RZ:RZ_END_RZ
+shap:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RouRBo:RZ_DELAY_DASH_3000_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
+borRa:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:BorderRadius.cir:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:20:RZ_END_RZ,
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 146
+|----| Use For: Select full text - post
+|----| Command: GoTo Line Number: 146, full select text - post
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+Message:RZ_END_RZ
+sty:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:EleBu:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ.stFr:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
+pri:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Color.frRG:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:255:RZ_TAB_RZ:0:RZ_TAB_RZ:102:RZ_TAB_RZ:1:RZ_END_RZ,
+pad:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:EdgeInsets.sym:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:ver:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:4, hor:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:36:RZ_END_RZ,
+texSt:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:TexSt:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:fonSi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:20:RZ_END_RZ,
+sha:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RouRBo:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
+borRa:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:BorderRadius.cir:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:20:RZ_END_RZ,
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 81
+|----| Use For: Call tiles("Location: Add Location") method
+|----| Command: GoTo Line Number: 81 end of line
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+tiles("Location: Add Location:RZ_END_RZ,
+tiles("Gender: Add Gender:RZ_END_RZ,
+tiles("Profession: Add Profession:RZ_END_RZ,
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 162
+|----| Use For: tiles("Location: Add Location") method
+|----| Command: GoTo Line Number: 162 end of line
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+//RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+Widget tiles(String argTitle:RZ_END_RZ {
+return LisTi:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ:;RZ_LEFT_RZ:RZ_LEFT_RZ
+tit:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Text(
+argTitle,
+sty:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:TexSt:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ(
+fonSi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:20,
+fonWe:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:FonWe:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ.w5:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,
+col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colors.wh:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,RZ_DOWN_RZ:RZ_DOWN_RZ:RZ_END_RZ
+tra:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Icon(
+Icons.edit,
+col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colors.wh:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ
+siz:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:18:RZ_END_RZ
+
+RZ_NLINE_ALL_RZ
+//e:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+|----|------------------------------------------------------------|
+|----| File Name: main.dart
+|----| Line Number: 167
+|----| Use For: click on ListTile add Widget
+|----| Command: GoTo Line Number: 167
+|----|------------------------------------------------------------|
+
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+SizBo:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ:RZ_DOWN_RZ:RZ_UP_RZ:RZ_UP_RZ:RZ_END_RZ
+hei:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:32:RZ_END_RZ
+
+RZ_NLINE_ALL_RZ
+// End of project "Finished"
+
+RZ_NLINE_ALL_RZ
+RZ_SAVE_RZ END
+RZ_NLINE_ALL_RZ
+
+|----|------------------------------------------------------------|
+|----| End
+|----|------------------------------------------------------------|
+
+
+
+
+
 
 
 
@@ -411,281 +788,6 @@ RZ_NLINE_ALL_RZ
 
 
 
-
-
-
-
-
-
-
-
-|----|------------------------------------------------------------|
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 63. end of line:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----SizedBox->Text->TextStyle----|<=)
-RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-SizBo:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
-hei:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:size.he:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ / 3:RZ_END_RZ:RZ_DOWN_RZ:RZ_END_RZ
-Text(RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
-"Rz Rasel - Flutter Tutorial:RZ_END_RZ,
-sty:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:TexSt:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ(
-col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colors.wh:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,
-fonSi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:16,
-fonWe:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:FonWe:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ.bo:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,
-
-|----|------------------------------------------------------------|
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 77. end of line:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----Call info(size) method----|<=)
-RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-info(size:RZ_END_RZ,
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 82. end of line:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----info(size) method----|<=)
-RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-Widget info(Size size:RZ_END_RZ {
-return Cont:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ:;RZ_LEFT_RZ:RZ_LEFT_RZ
-hei:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:size.he:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ / 10:RZ_END_RZ
-wid:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:size.wi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ
-chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Row(
-chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
-Text(RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
-"Like\n\t\t\t10.5M:RZ_END_RZ,
-sty:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:TexSt:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ(
-col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colors.wh:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,
-fonSi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:14,
-fonWe:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:FonWe:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ.w5:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// Copy past text 2 times, select full text - line 99:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----info()->Copy past->Text->Comment----|<=)
-RZ_NLINE_ALL_RZ
-Comment\n\t\t\t1.9M:RZ_END_RZ
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 107. select full text:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----info()->Text->Share----|<=)
-RZ_NLINE_ALL_RZ
-Share\n\t\t\t15.2M:RZ_END_RZ
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 88. end of line:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----info()->Text->MainAxisAlignment----|<=)
-RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-maiAAl:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:MaiAAl:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ.spEv:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 78. end of line:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----Call buttons(size) method----|<=)
-RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-buttons(size:RZ_END_RZ,
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 119. end of line:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----buttons(size) method----|<=)
-RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-Widget buttons(Size size:RZ_END_RZ {
-return Cont:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ:;RZ_LEFT_RZ:RZ_LEFT_RZ
-hei:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:size.he:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ / 10:RZ_END_RZ
-wid:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:size.wi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ / 1.3:RZ_END_RZ
-chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Row(
-chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
-ElevatedButton(RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
-chi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Text("Post:RZ_END_RZ
-onPr:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ() {}RZ_END_RZ
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 130. end of line. Copy past and goto line number: 125 - ElevatedButton once:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----ElevatedButton->Copy past----|<=)
-                                        (=>|----ElevatedButton->style----|<=)
-RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-maiAAl:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:MaiAAl:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ.spBe:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RZ_DOWN_RZ:RZ_DOWN_RZ:RZ_DOWN_RZ:RZ_END_RZ
-sty:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:EleBu:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ.stFr:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
-pri:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Color.frRG:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:29:RZ_TAB_RZ:29:RZ_TAB_RZ:29:RZ_TAB_RZ:1:RZ_END_RZ,
-pad:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:EdIn:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:ver:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:4, hor:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:42:RZ_END_RZ,
-sid:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:BorSi:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
-wid:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:2,
-col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Color.frRG:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:255:RZ_TAB_RZ:0:RZ_TAB_RZ:102:RZ_TAB_RZ:1:RZ_END_RZ,RZ_DOWN_RZ:RZ_END_RZ
-sha:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RouRBo:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
-borRa:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:BorderRadius.cir:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:20:RZ_END_RZ,
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 144. full select text - post:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----ElevatedButton->style----|<=)
-RZ_NLINE_ALL_RZ
-Message:RZ_END_RZ
-sty:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:EleBu:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ.stFr:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
-pri:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Color.frRG:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:255:RZ_TAB_RZ:0:RZ_TAB_RZ:102:RZ_TAB_RZ:1:RZ_END_RZ,
-pad:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:EdIn:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:ver:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:4, hor:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:36:RZ_END_RZ,
-sha:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RouRBo:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ,RZ_LEFT_RZ:RZ_LEFT_RZ
-borRa:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:BorderRadius.cir:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:20:RZ_END_RZ,
-                                            (=>|----Runtime Test----|<=)
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 79. end of line:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----Call buttons(title) method----|<=)
-RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-tiles("Location: Add Location:RZ_END_RZ,
-tiles("Gender: Add Gender:RZ_END_RZ,
-tiles("Profession: Add Profession:RZ_END_RZ,
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 160. end of line:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----tiles(String title) method----|<=)
-RZ_NLINE_ALL_RZ
-\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-Widget tiles(String title:RZ_END_RZ {
-return LisTi:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ:;RZ_LEFT_RZ:RZ_LEFT_RZ
-tit:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Text(
-title,
-sty:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:TexSt:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ(
-fonSi:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:14,
-fonWe:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:FonWe:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ.w5:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,
-col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colors.wh:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ,RZ_DOWN_RZ:RZ_DOWN_RZ:RZ_END_RZ
-tra:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Icon(
-Icons.edit,
-col:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Colors.wh:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ
-siz:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:18:RZ_END_RZ
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// GoTo Line Number: 163. click on ListTile add Widget:RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-                                        (=>|----tiles(String title) method----|<=)
-RZ_NLINE_ALL_RZ
-SizBo:RZ_DELAY_DASH_1500_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ
-hei:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:24:RZ_END_RZ
-
-                                        (=>|----GOTO COMMAND----|<=)
-RZ_NLINE_ALL_RZ
-end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-RZ_NLINE_ALL_RZ
-// End of project + program "Finished":RZ_SAVE_RZ
-RZ_NLINE_ALL_RZ
-RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
-RZ_NLINE_ALL_RZ
-start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
-
-
-
-
-RZ_NLINE_ALL_RZ
-RZ_SAVE_RZ END
 
 |----|------------------------------------------------------------|
 |----| File Name: file_name
