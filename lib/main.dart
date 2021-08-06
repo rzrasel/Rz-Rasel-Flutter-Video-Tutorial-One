@@ -20,13 +20,13 @@ class PortfolioPageState extends State<PortfolioPage> {
     Size size = MediaQuery.of(context).size;
 
     return Scaffold(
-      backgroundColor: Color.fromRGBO(1, 1, 1, 1),
+      backgroundColor: const Color.fromRGBO(1, 1, 1, 1),
       body: Column(
         children: [
           Container(
             height: size.height / 1.9,
             width: size.width,
-            decoration: BoxDecoration(
+            decoration: const BoxDecoration(
               image: DecorationImage(
                 image: NetworkImage(
                     "https://avatars.githubusercontent.com/u/6184050?v=4"
@@ -45,7 +45,7 @@ class PortfolioPageState extends State<PortfolioPage> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       IconButton(
-                        icon: Icon(
+                        icon: const Icon(
                           Icons.arrow_back,
                           color: Colors.white,
                           size: 32,
@@ -53,7 +53,7 @@ class PortfolioPageState extends State<PortfolioPage> {
                         onPressed: () {},
                       ),
                       IconButton(
-                        icon: Icon(
+                        icon: const Icon(
                           Icons.more_vert,
                           color: Colors.white,
                           size: 32,
@@ -66,7 +66,7 @@ class PortfolioPageState extends State<PortfolioPage> {
                 SizedBox(
                   height: size.height / 3,
                 ),
-                Text(
+                const Text(
                   "Rz Rasel - Flutter Tutorial",
                   style: TextStyle(
                     color: Colors.blueGrey,
@@ -93,7 +93,7 @@ class PortfolioPageState extends State<PortfolioPage> {
       width: argSize.width,
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        children: [
+        children: const [
           Text(
             "Like\n10.5M",
             style: TextStyle(
@@ -131,12 +131,12 @@ class PortfolioPageState extends State<PortfolioPage> {
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           ElevatedButton(
-            child: Text("Post"),
+            child: const Text("Post"),
             style: ElevatedButton.styleFrom(
-              primary: Color.fromRGBO(29, 29, 29, 1),
-              padding: EdgeInsets.symmetric(vertical: 4, horizontal: 42),
-              textStyle: TextStyle(fontSize: 20),
-              side: BorderSide(
+              primary: const Color.fromRGBO(29, 29, 29, 1),
+              padding: const EdgeInsets.symmetric(vertical: 4, horizontal: 42),
+              textStyle: const TextStyle(fontSize: 20),
+              side: const BorderSide(
                 width: 2,
                 color: Color.fromRGBO(255, 0, 102, 1),
               ),
@@ -147,11 +147,11 @@ class PortfolioPageState extends State<PortfolioPage> {
             onPressed: () {},
           ),
           ElevatedButton(
-            child: Text("Message"),
+            child: const Text("Message"),
             style: ElevatedButton.styleFrom(
-              primary: Color.fromRGBO(255, 0, 102, 1),
-              padding: EdgeInsets.symmetric(vertical: 4, horizontal: 36),
-              textStyle: TextStyle(fontSize: 20),
+              primary: const Color.fromRGBO(255, 0, 102, 1),
+              padding: const EdgeInsets.symmetric(vertical: 4, horizontal: 36),
+              textStyle: const TextStyle(fontSize: 20),
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(20),
               ),
@@ -169,13 +169,13 @@ class PortfolioPageState extends State<PortfolioPage> {
       child: ListTile(
         title: Text(
           argTitle,
-          style: TextStyle(
+          style: const TextStyle(
             fontSize: 20,
             fontWeight: FontWeight.w500,
             color: Colors.white,
           ),
         ),
-        trailing: Icon(
+        trailing: const Icon(
           Icons.edit,
           color: Colors.white,
           size: 18,
