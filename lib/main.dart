@@ -2,12 +2,14 @@
 // Import flutter material package
 import "package:flutter/material.dart";
 
-void main() => runApp(MaterialApp(
+void main() => runApp(const MaterialApp(
   debugShowCheckedModeBanner: false,
   home: PortfolioPage(),
 ));
 
 class PortfolioPage extends StatefulWidget {
+  const PortfolioPage({Key? key}) : super(key: key);
+
   @override
   PortfolioPageState createState() => PortfolioPageState();
 }
@@ -27,7 +29,7 @@ class PortfolioPageState extends State<PortfolioPage> {
             decoration: BoxDecoration(
               image: DecorationImage(
                 image: NetworkImage(
-                  "https://avatars.githubusercontent.com/u/6184050?v=4"
+                    "https://avatars.githubusercontent.com/u/6184050?v=4"
                 ),
                 fit: BoxFit.cover,
               ),
@@ -46,7 +48,7 @@ class PortfolioPageState extends State<PortfolioPage> {
                         icon: Icon(
                           Icons.arrow_back,
                           color: Colors.white,
-                          size: 20,
+                          size: 32,
                         ),
                         onPressed: () {},
                       ),
@@ -54,7 +56,7 @@ class PortfolioPageState extends State<PortfolioPage> {
                         icon: Icon(
                           Icons.more_vert,
                           color: Colors.white,
-                          size: 20,
+                          size: 32,
                         ),
                         onPressed: () {},
                       ),
@@ -67,8 +69,8 @@ class PortfolioPageState extends State<PortfolioPage> {
                 Text(
                   "Rz Rasel - Flutter Tutorial",
                   style: TextStyle(
-                    color: Colors.white,
-                    fontSize: 16,
+                    color: Colors.blueGrey,
+                    fontSize: 24,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -85,34 +87,34 @@ class PortfolioPageState extends State<PortfolioPage> {
     );
   }
 
-  Widget info(Size size) {
+  Widget info(Size argSize) {
     return Container(
-      height: size.height / 10,
-      width: size.width,
+      height: argSize.height / 10,
+      width: argSize.width,
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
           Text(
-            "Like\n\t\t\t10.5M",
+            "Like\n10.5M",
             style: TextStyle(
               color: Colors.white,
-              fontSize: 14,
+              fontSize: 20,
               fontWeight: FontWeight.w500,
             ),
           ),
           Text(
-            "Comment\n\t\t\t1.9M",
+            "Comment\n1.9M",
             style: TextStyle(
               color: Colors.white,
-              fontSize: 14,
+              fontSize: 20,
               fontWeight: FontWeight.w500,
             ),
           ),
           Text(
-            "Share\n\t\t\t15.2M",
+            "Share\n15.2M",
             style: TextStyle(
               color: Colors.white,
-              fontSize: 14,
+              fontSize: 20,
               fontWeight: FontWeight.w500,
             ),
           ),
@@ -121,10 +123,10 @@ class PortfolioPageState extends State<PortfolioPage> {
     );
   }
 
-  Widget buttons(Size size) {
+  Widget buttons(Size argSize) {
     return Container(
-      height: size.height / 10,
-      width: size.width / 1.3,
+      height: argSize.height / 10,
+      width: argSize.width / 1.3,
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
@@ -133,6 +135,7 @@ class PortfolioPageState extends State<PortfolioPage> {
             style: ElevatedButton.styleFrom(
               primary: Color.fromRGBO(29, 29, 29, 1),
               padding: EdgeInsets.symmetric(vertical: 4, horizontal: 42),
+              textStyle: TextStyle(fontSize: 20),
               side: BorderSide(
                 width: 2,
                 color: Color.fromRGBO(255, 0, 102, 1),
@@ -148,6 +151,7 @@ class PortfolioPageState extends State<PortfolioPage> {
             style: ElevatedButton.styleFrom(
               primary: Color.fromRGBO(255, 0, 102, 1),
               padding: EdgeInsets.symmetric(vertical: 4, horizontal: 36),
+              textStyle: TextStyle(fontSize: 20),
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(20),
               ),
@@ -159,14 +163,14 @@ class PortfolioPageState extends State<PortfolioPage> {
     );
   }
 
-  Widget tiles(String title) {
+  Widget tiles(String argTitle) {
     return SizedBox(
-      height: 24,
+      height: 32,
       child: ListTile(
         title: Text(
-          title,
+          argTitle,
           style: TextStyle(
-            fontSize: 14,
+            fontSize: 20,
             fontWeight: FontWeight.w500,
             color: Colors.white,
           ),
@@ -180,4 +184,3 @@ class PortfolioPageState extends State<PortfolioPage> {
     );
   }
 }
-//97
